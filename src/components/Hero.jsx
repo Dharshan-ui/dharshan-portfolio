@@ -78,7 +78,7 @@ export default function Hero() {
                 🚀 View Projects
               </motion.a>
               <motion.a
-                href="https://colourful-harlequin-xygmhdi5r0.edgeone.app/Dharshan_resume%20(1).pdf"
+                href="/Dharshan_resume (1).pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.02 }}
