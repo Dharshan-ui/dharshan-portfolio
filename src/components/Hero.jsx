@@ -99,7 +99,9 @@ export default function Hero() {
                 </span>
               </a>
               <a
-                href="#contact"
+                href="/Dharshan_resume (1).pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="px-8 py-4 border-2 border-gray-300 dark:border-gray-700 text-gray-900 dark:text-white rounded-xl font-semibold hover:bg-gray-50 dark:hover:bg-gray-900 transition-colors duration-300 inline-flex items-center gap-2"
               >
                 <Download size={18} />
