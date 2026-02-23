@@ -7,6 +7,7 @@ import Projects from './components/Projects'
 import Experience from './components/Experience'
 import Achievements from './components/Achievements'
 import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 export default function App() {
   return (
@@ -22,6 +23,7 @@ export default function App() {
           <Achievements />
           <Contact />
         </main>
+        <Footer />
       </div>
     </ThemeProvider>
   )
